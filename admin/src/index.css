@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+@theme {
+    --shadow-around: 0px 0px 08px 4px #ccc;
+}
